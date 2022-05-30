@@ -129,10 +129,3 @@ font-extrabold tracking-tight text-gray-900 sm:text-3xl">
     </div>
   </div>
 </div>
-
-"CodigoParlamentar" : "4981", "CodigoPublicoNaLegAtual" : "916", , "SexoParlamentar" : "Masculino", "FormaTratamento" :
-"Senador ", "UrlPaginaParlamentar" : "http://www25.senado.leg.br/web/senadores/senador/-/perfil/4981",
-"UrlPaginaParticular" : "https://acirgurgacz.com.br/", "EmailParlamentar" : "sen.acirgurgacz@senado.leg.br", "Telefones"
-: "Telefone" : [ "NumeroTelefone" : "33033131", "OrdemPublicacao" : "1", "IndicadorFax" : "Não" , "NumeroTelefone" :
-"33033132", "OrdemPublicacao" : "2", "IndicadorFax" : "Não" ] , "SiglaPartidoParlamentar" : "PDT", "UfParlamentar" :
-"RO", "MembroMesa" : "Não", "MembroLideranca" : "Não"

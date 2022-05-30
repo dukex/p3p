@@ -12,6 +12,8 @@ module.exports = {
         const parlamentares = data.ListaParlamentarEmExercicio.Parlamentares.Parlamentar;
         return parlamentares.map((parlamentar) => {
           const uid = slugify(parlamentar.IdentificacaoParlamentar.NomeParlamentar);
+          console.log(`${parlamentar.IdentificacaoParlamentar.CodigoParlamentar}-${uid}`.toLowerCase())
+
           return Object.assign({}, parlamentar, {
             slug: `${parlamentar.IdentificacaoParlamentar.CodigoParlamentar}-${uid}`.toLowerCase(),
           });
